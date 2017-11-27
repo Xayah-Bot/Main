@@ -67,6 +67,6 @@ async def ban(ctx, userName: discord.User):
 
 
 ## Bot Token ##
-bot.run('MzQ2Mjk4NDY1MjY3MjIwNDgy.DO-cDg.kPunOdym2Y8wcHtnXNBiBGoCM84')
+bot.run('')
 
 
